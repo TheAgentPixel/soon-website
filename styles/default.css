@@ -1,0 +1,26 @@
+
+#header {
+  max-width: 300px;
+  margin: auto;
+  border: 3px solid #800000;
+  background-color: lightgreen;
+}
+
+h1 {
+  color: grey;
+  font-size: 15px;
+}
+
+p {
+  color: teal;
+  font-size: 15px;
+}
+
+h2 {
+  color: red;
+  font-size: 15px;
+}
+
+a {
+  color: orange;
+}
